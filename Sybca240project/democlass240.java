@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class democlass240 {
 
@@ -8,8 +9,11 @@ public class democlass240 {
 
 	}
 
-	void display()
-	{
-		System.out.println("Branch pull request");
-	}
+	int n1;
+	int n2;
+	
+	Scanner scan = new scanner(System.in);
+	System.out.println("Enter the first num");
+	num1
+
 }
