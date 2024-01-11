@@ -10,6 +10,6 @@ public class democlass240 {
 
 	void display()
 	{
-		System.out.println("Branch");
+		System.out.println("Branch pull request");
 	}
 }
